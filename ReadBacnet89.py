@@ -6,7 +6,7 @@ import json
 # BACnet device configuration
 bacnet_ip = "192.168.1.89"  # IP address of BACnet device
 device_ip = "192.168.1.34" # IP address of the device that runs this script
-device_port = 1099 # Port Number of the device that runs this script (any port that is not used)
+device_port = 1100 # Port Number of the device that runs this script (any port that is not used)
 
 # MQTT Configuration
 MQTT_BROKER = "broker.emqx.io"  # Replace with your MQTT broker address
